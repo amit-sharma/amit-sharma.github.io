@@ -16,7 +16,7 @@
 title: Amit Sharma | Hacks, tips, inspirations
 email: me@amitsharma.in
 description: > # this means to ignore newlines until "baseurl:"
-        I collect tips for making digital life a bit easier.
+        Collecting tips for making digital life a bit easier. More about me: http://www.amitsharma.in
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: amt_shrma
