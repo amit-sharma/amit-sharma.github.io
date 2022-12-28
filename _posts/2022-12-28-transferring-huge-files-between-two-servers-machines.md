@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transferring HUGE files between two servers or remote machines"
-date:   2012-12-28 10:06:18 -0400
+date:   2022-12-28 10:06:18 -0400
 categories: commandline
 ---
 I wanted to transfer a 200GB file from one remote machine to another. This is 2022, so I thought it should be a breeze. But scp showed me ETA of 2 days! I looked frantically for solutions online. People suggested rcp (which gave the same speed) and then variants of it that did not use encryption. All of those options are disabled by new versions of OpenSSH. 
