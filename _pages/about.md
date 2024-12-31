@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Principal Researcher, Microsoft Research India
+subtitle: <b>Principal Researcher</b> | <a href="#">Microsoft Research India</a>
 
 profile:
   align: right
@@ -15,6 +15,7 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+tabs: true
 ---
 
 Data tells stories. My research aims to tell the _causal_ story.
@@ -31,10 +32,11 @@ program.
 
 {% tab educ Education %}
 
-Ph.D. in Computer Science, 2015
-Cornell University
-B.Tech. in Computer Science, 2010
-IIT Kharagpur
+<b>[2015]</b> <b>Ph.D.</b> in Computer Science,
+<a href="#">Cornell University</a>
+
+<b>[2010]</b> <b>B.Tech.</b> in Computer Science,
+<a href="#">IIT Kharagpur</a>
 
 {% endtab %}
 
@@ -42,6 +44,7 @@ IIT Kharagpur
 
 Causal Machine Learning
 
-{% endtab %}
+AI Reasoning
 
+{% endtab %}
 {% endtabs %}
