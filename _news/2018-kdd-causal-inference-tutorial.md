@@ -7,4 +7,3 @@ related_posts: false
 
 [Emre](http://kiciman.org) and I gave a tutorial on causal inference at
 [KDD](http://www.kdd.org/kdd2018/). [[Slides](https://causalinference.gitlab.io/kdd-tutorial)]
-

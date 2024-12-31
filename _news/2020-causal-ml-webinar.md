@@ -6,5 +6,4 @@ related_posts: false
 ---
 
 [Emre](http://kiciman.org) and I gave a Microsoft Research
-webinar on causal inference and its implications for machine learning. [[Video](https://note.microsoft.com/MSR-Webinar-DoWhy-Library-Registration-On-Demand.html)] 
-
+webinar on causal inference and its implications for machine learning. [[Video](https://note.microsoft.com/MSR-Webinar-DoWhy-Library-Registration-On-Demand.html)]

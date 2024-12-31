@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Talk on necessity of causal inference for out-of-distribution generalization in prediction and decision-making at the Technion, Israel. [[Slides](files/causal-ml-dowhy-prediction-decisionmaking.pdf)]
-
