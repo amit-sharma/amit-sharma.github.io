@@ -131,8 +131,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: amitsharma # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: deep reasoning # blog_name will be displayed in your blog page
+blog_description: notes and recent talks
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
