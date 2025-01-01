@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>9 Lavelle Road</p>
-    <p> Bengaluru, India</p>
+    <p>Mission: <b><i>"Making causal inference practical."</i></b></p>
+    <p> See: AIM Interview: Why Amit Sharma created DoWhy</p>
+    <p> Listen: Humans of AI Podcast</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
