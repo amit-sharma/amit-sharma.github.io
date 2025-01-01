@@ -7,6 +7,45 @@ nav: true
 nav_order: 4
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Tutorials on causal inference
 
-Organize your courses by years, topics, or universities, however you like!
+A breezy introduction to causal inference:
+[IC2S2](https://www.github.com/amit-sharma/causal-inference-tutorial/)
+
+Advanced tutorial on causal inference:
+[KDD 2018](https://causalinference.gitlab.io/kdd-tutorial/)
+
+### Causal reasoning book
+
+Causal Reasoning: Fundamentals and Machine Learning Applications
+
+[Book
+Outline](https://causalinference.gitlab.io/Causal-Reasoning-Fundamentals-and-Machine-Learning-Applications/)
+
+[All Chapters](https://causalinference.gitlab.io/)
+
+### DoWhy python library
+
+Code: [DoWhy](https://www.github.com/py-why/dowhy/)
+
+Docs: [Documentation](https://www.pywhy.org/dowhy/)
+
+---
+
+### Students I have advised (with their first position)
+
+#### Research Fellows (Pre-doctoral program)
+
+- Sachin Pendse, Georgia Tech. Ph.D.
+- Divyat Mahajan, MILA Ph.D.
+- Ramaravind Mothilal, Univ. of Toronto Ph.D.
+- Saloni Dash, Univ. of Washington Ph.D.
+- Abhinav Kumar, MIT Ph.D.
+- Jivat Kaur, UC Berkeley Ph.D.
+- Parikshit Bansal, UT Austin Ph.D.
+- Aniket Vashishtha, UIUC M.S.
+
+#### Ph.D. students (co-supervised)
+
+- Sachin Pendse, Asst. Professor
+- Gowtham Abbavaram, Germany
