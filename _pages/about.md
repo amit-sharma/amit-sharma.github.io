@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Mission: <b><i>"Making causal inference practical."</i></b></p>
-    <p> See: AIM Interview: Why Amit Sharma created DoWhy</p>
-    <p> Listen: Humans of AI Podcast</p>
+    <p>🚀<b><i>"Making causal inference practical"</i></b></p>
+    <p>💻<a href="https://pywhy.org">DoWhy/PyWhy ecosystem</a> for causal AI</p>
+    <hr />
+    <p>📖<a href="https://analyticsindiamag.com/ai-features/why-amit-sharma-created-dowhy/">Why Amit Sharma created DoWhy</a></p>
+    <p>🎧<a href="https://open.spotify.com/episode/6Rc3rZsAfcNGOQFXop7p0P">Causal Science|Humans of AI</a></p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -43,9 +45,9 @@ program.
 
 {% tab educ Interests %}
 
-Causal Machine Learning
+Causal inference \| Causality and machine learning
 
-AI Reasoning
+AI reasoning \| Accelerating scientific discovery
 
 {% endtab %}
 {% endtabs %}
