@@ -2,11 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: research and open-source software
 nav: true
 nav_order: 1
-display_categories: [work]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
@@ -66,6 +65,8 @@ horizontal: false
 
 ---
 
+### open-source software
+
 {% if site.data.repositories.github_repos %}
 
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -76,8 +77,6 @@ horizontal: false
 {% endif %}
 
 ---
-
-### @amit-sharma | GitHub
 
 {% if site.data.repositories.github_users %}
 
