@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: lectures, tutorials, research advising
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 #### Tutorials on causal inference and machine learning
