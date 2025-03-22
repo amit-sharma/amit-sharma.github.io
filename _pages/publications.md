@@ -16,8 +16,16 @@ An up-to-date list is available at <a href="https://scholar.google.com/citations
 
 {% include bib_search.liquid %}
 
-<div class="publications">
+### Preprints
 
-{% bibliography %}
+<div class="publications"> 
+{% bibliography --query @*[status=review] %}
+
+</div>
+
+### Publications
+
+<div class="publications"> 
+{% bibliography --query @*[status!=review] %}
 
 </div>

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Principal Researcher</b> | <a href="#">Microsoft Research India</a>
+subtitle: <b>Principal Researcher</b> | <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-india/">Microsoft Research India</a>
 
 profile:
   align: right
@@ -28,7 +28,7 @@ The key insight in my work is to consider modern algorithms as _interventions_, 
 
 If you are interested in working with me at MSR India, drop me an email. We hire interns throughout the year. There are also [postdoctoral positions](https://www.microsoft.com/en-us/research/msr-india-hiring/) available. Additionally,
 if you are an undergraduate or a masters student, <!--you can additionally apply to the pre-doctoral [Research Fellowship](link-to-rf) program.-->
-our lab runs an excellent pre-doctoral [Research Fellowship](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/research-fellow-program/)
+our lab runs an excellent pre-doctoral [Research Fellows](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/).
 program.
 
 {% tabs educ %}
