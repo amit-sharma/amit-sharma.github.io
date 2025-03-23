@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>🚀<b><i>"Making causal inference practical"</i></b></p>
-    <p>💻<a href="https://pywhy.org">DoWhy/PyWhy ecosystem</a> for causal AI</p>
+    <p>💻<a href="https://pywhy.org">DoWhy/PyWhy OSS ecosystem</a></p>
     <hr />
     <p>📖<a href="https://analyticsindiamag.com/ai-features/why-amit-sharma-created-dowhy/">Why Amit Sharma created DoWhy</a></p>
     <p>🎧<a href="https://open.spotify.com/episode/6Rc3rZsAfcNGOQFXop7p0P">Causal Science|Humans of AI</a></p>
@@ -50,4 +50,5 @@ Causal inference \| Causality and machine learning
 AI reasoning \| Accelerating scientific discovery
 
 {% endtab %}
+
 {% endtabs %}

@@ -26,6 +26,6 @@ An up-to-date list is available at <a href="https://scholar.google.com/citations
 ### Publications
 
 <div class="publications"> 
-{% bibliography --query @*[status!=review] %}
+{% bibliography --query @*[status!=review && status!=unpublished] %}
 
 </div>

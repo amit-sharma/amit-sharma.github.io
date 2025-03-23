@@ -5,5 +5,12 @@ repo_description_lines_max: 10
 
 github_repos:
   - py-why/dowhy
-  - py-why/pywhy-llm
+  - py-why/pywhyllm
+  - interpretml/dice
+
+gh_causal_repos:
+  - py-why/dowhy
+  - py-why/pywhyllm
+
+gh_trustworthyai_repos:
   - interpretml/dice
