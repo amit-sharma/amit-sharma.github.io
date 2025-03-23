@@ -13,6 +13,10 @@ However, two limitations still exist for applying causal methods in practice: 1)
 
 In the future, I hope that we can democratize causal analysis and increase its adoption across science and business: users may specify a causal query in natural language and the system can work with them to answer their query. To enable this vision, I also work on fundamental improvements to causal effect estimation and root-cause analysis methods.
 
+<div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/pearl_dowhy_tweet.png" class="img-fluid rounded z-depth-1" %}
+</div>
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
 {% for repo in site.data.repositories.gh_causal_repos %}
 {% include repository/repo.liquid repository=repo %}
